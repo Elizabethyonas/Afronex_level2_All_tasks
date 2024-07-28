@@ -1,1 +1,2 @@
-# Afronex_level2_All_tasks
+# Weather Web App
+## Using HTML CSS and JavaScript
