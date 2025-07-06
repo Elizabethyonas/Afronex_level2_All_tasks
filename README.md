@@ -2,7 +2,7 @@
 
 A minimalist weather forecast web app built using **HTML**, **CSS**, and **JavaScript**.
 
-![Weather App Preview](./weatherwebapp.png)
+![Weather App Preview](./weather.png)
 
 ## 🚀 Features
 
